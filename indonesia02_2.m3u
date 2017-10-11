@@ -1,6 +1,7 @@
 #EXTM3U
-#EXTINF:-1,VOA indonesia
-http://voa-lh.akamaihd.net/i/voa_mpls_tvmc3_3@320295/master.m3u8
+
+#EXTINF:-1,Aniplus
+rtmp://118.97.183.222/discover/aniplus
 #EXTINF:-1,Jogja TV
 rtmp://202.169.224.206/live
 #EXTINF:-1,MGS TV
@@ -123,18 +124,16 @@ http://cdn.metube.id/videom3u8/Y0NzL67PrNZPPNWPsGMv/index.m3u8
 http://cdn.metube.id/videom3u8/IUiK1dQBlhVgBd0c4Ehd/index.m3u8
 #EXTINF:-1,KompasTV
 https://livestream-hybrid.akamaized.net/live/smil:kompastv.smil/playlist.m3u8
-#EXTINF:-1,Aniplus
-rtmp://118.97.183.222/discover/aniplus
+
 #EXTINF:-1,MetroTV
 http://edge.metrotvnews.com:1935/live-edge/smil:metro.smil/playlist.m3u8
 #EXTINF:-1,RCTI
 http://cdn.metube.id/videom3u8/BNJz9xRPaciwuTx1NsOu/index.m3u8
-#EXTINF:-1,SCTV
-https://livestream-hybrid.akamaized.net/live/smil:sctv.smil/playlist.m3u8
 #EXTINF:-1,Trans TV
 https://livestream-hybrid.akamaized.net/live/smil:transtv.smil/playlist.m3u8
-#EXTINF:-1,NetTV
-https://www.youtube.com/embed/4viugSIEUkE
+#EXTINF:-1,VOA indonesia
+http://voa-lh.akamaihd.net/i/voa_mpls_tvmc3_3@320295/master.m3u8
+
 
 
 
