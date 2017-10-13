@@ -119,7 +119,7 @@ http://cdn.metube.id/videom3u8/19rX5BcHnQMa7JFobxs5/index.m3u8
 #EXTINF:-1,iNews
 http://cdn.metube.id/videom3u8/Znfce0rBdBVECzOXKl1U/index.m3u8
 #EXTINF:-1,GlobalTV
-http://cdn.metube.id/videom3u8/Y0NzL67PrNZPPNWPsGMv/index.m3u8
+https://cdn-livetv.metube.id/hls/globaltv.m3u8
 #EXTINF:-1,MNC TV
 http://cdn.metube.id/videom3u8/IUiK1dQBlhVgBd0c4Ehd/index.m3u8
 #EXTINF:-1,KompasTV
@@ -127,7 +127,7 @@ https://livestream-hybrid.akamaized.net/live/smil:kompastv.smil/playlist.m3u8
 #EXTINF:-1,MetroTV
 http://edge.metrotvnews.com:1935/live-edge/smil:metro.smil/playlist.m3u8
 #EXTINF:-1,RCTI
-http://cdn.metube.id/videom3u8/BNJz9xRPaciwuTx1NsOu/index.m3u8
+https://edge.okezone.com/live/rctioke.m3u8
 #EXTINF:-1,Trans TV
 https://livestream-hybrid.akamaized.net/live/smil:transtv.smil/playlist.m3u8
 #EXTINF:-1,VOA indonesia
