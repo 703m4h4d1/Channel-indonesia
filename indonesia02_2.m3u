@@ -87,7 +87,7 @@ http://svr.sntivi.id:1935/live/sntv/playlist.m3u8
 #EXTINF:-1,ADI TV Jogja
 http://aditv.onlivestreaming.net/aditv/livestream/playlist.m3u8
 #EXTINF:-1,TV9 Nusantara
-rtsp://videostream.indostreamserver.com:1935/tv9/live
+http://wowza60.indostreamserver.com:1935/tv9/live/playlist.m3u8
 #EXTINF:-1,Ummat TV
 http://ummattv2.onlivestreaming.net/ummattv2/livestream/playlist.m3u8
 #EXTINF:-1,TVMU
