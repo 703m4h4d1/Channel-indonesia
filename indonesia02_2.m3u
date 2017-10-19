@@ -1,5 +1,46 @@
 #EXTM3U
-
+#EXTINF:-1,MNC Muslim
+https://cdn-livetv.metube.id/hls/mncnews.m3u8
+#EXTINF:-1,Music Channel
+https://cdn-livetv.metube.id/hls/musicchannel.m3u8
+#EXTINF:-1,MNC Lifestyle
+https://cdn-livetv.metube.id/hls/mnclifestyle.m3u8
+#EXTINF:-1,IDX
+https://cdn-livetv.metube.id/hls/idxchannel.m3u8
+#EXTINF:-1,MNC Infotainment
+https://cdn-livetv.metube.id/hls/mncinfotainment.m3u8
+#EXTINF:-1,MNC Shop
+https://cdn-livetv.metube.id/hls/mncshop.m3u8
+#EXTINF:-1,MNC Life
+http://edge.okezone.com/live/life.m3u8
+#EXTINF:-1,Auto&Gadget
+https://cdn-livetv.metube.id/hls/autogadget.m3u8
+#EXTINF:-1,Movie Channel
+https://cdn-livetv.metube.id/hls/movie.m3u8
+#EXTINF:-1,MNC Fashion
+https://cdn-livetv.metube.id/hls/mncfashion.m3u8
+#EXTINF:-1,MNC News
+https://cdn-livetv.metube.id/hls/mncnews.m3u8
+#EXTINF:-1,MNC Sports
+https://cdn-livetv.metube.id/hls/mncsports.m3u8
+#EXTINF:-1,iNews TV
+https://cdn-livetv.metube.id/hls/inewstv_480/index.m3u8
+#EXTINF:-1,GlobalTV
+https://cdn-livetv.metube.id/hls/globaltv.m3u8
+#EXTINF:-1,MNC TV
+https://cdn-livetv.metube.id/hls/mnctv.m3u8
+#EXTINF:-1,MNC TV
+https://cdn-livetv.metube.id/hls/mncfashion.m3u8
+#EXTINF:-1,Foodtravel
+https://cdn-livetv.metube.id/hls/foodtravel.m3u8
+#EXTINF:-1,KompasTV
+https://livestream-hybrid.akamaized.net/live/smil:kompastv.smil/playlist.m3u8
+#EXTINF:-1,MetroTV
+http://edge.metrotvnews.com:1935/live-edge/smil:metro.smil/playlist.m3u8
+#EXTINF:-1,RCTI
+https://edge.okezone.com/live/rctioke.m3u8
+#EXTINF:-1,Trans TV
+https://livestream-hybrid.akamaized.net/live/smil:transtv.smil/playlist.m3u8
 #EXTINF:-1,Aniplus
 rtmp://118.97.183.222/discover/aniplus
 #EXTINF:-1,Jogja TV
@@ -128,48 +169,6 @@ https://live-vidiostream.akamaized.net/live/smil:rtv.smil/playlist.m3u8
 http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRIdki)/Stream(02)/index.m3u8
 #EXTINF:-1,TVRI National
 http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRINasional)/Stream(04)/index.m3u8
-#EXTINF:-1,MNC Muslim
-https://cdn-livetv.metube.id/hls/mncnews.m3u8
-#EXTINF:-1,Music Channel
-https://cdn-livetv.metube.id/hls/musicchannel.m3u8
-#EXTINF:-1,MNC Lifestyle
-https://cdn-livetv.metube.id/hls/mnclifestyle.m3u8
-#EXTINF:-1,IDX
-https://cdn-livetv.metube.id/hls/idxchannel.m3u8
-#EXTINF:-1,MNC Infotainment
-https://cdn-livetv.metube.id/hls/mncinfotainment.m3u8
-#EXTINF:-1,MNC Shop
-https://cdn-livetv.metube.id/hls/mncshop.m3u8
-#EXTINF:-1,MNC Life
-http://edge.okezone.com/live/life.m3u8
-#EXTINF:-1,Auto&Gadget
-https://cdn-livetv.metube.id/hls/autogadget.m3u8
-#EXTINF:-1,Movie Channel
-https://cdn-livetv.metube.id/hls/movie.m3u8
-#EXTINF:-1,MNC Fashion
-https://cdn-livetv.metube.id/hls/mncfashion.m3u8
-#EXTINF:-1,MNC News
-https://cdn-livetv.metube.id/hls/mncnews.m3u8
-#EXTINF:-1,MNC Sports
-https://cdn-livetv.metube.id/hls/mncsports.m3u8
-#EXTINF:-1,iNews TV
-https://cdn-livetv.metube.id/hls/inewstv_480/index.m3u8
-#EXTINF:-1,GlobalTV
-https://cdn-livetv.metube.id/hls/globaltv.m3u8
-#EXTINF:-1,MNC TV
-https://cdn-livetv.metube.id/hls/mnctv.m3u8
-#EXTINF:-1,MNC TV
-https://cdn-livetv.metube.id/hls/mncfashion.m3u8
-#EXTINF:-1,Foodtravel
-https://cdn-livetv.metube.id/hls/foodtravel.m3u8
-#EXTINF:-1,KompasTV
-https://livestream-hybrid.akamaized.net/live/smil:kompastv.smil/playlist.m3u8
-#EXTINF:-1,MetroTV
-http://edge.metrotvnews.com:1935/live-edge/smil:metro.smil/playlist.m3u8
-#EXTINF:-1,RCTI
-https://edge.okezone.com/live/rctioke.m3u8
-#EXTINF:-1,Trans TV
-https://livestream-hybrid.akamaized.net/live/smil:transtv.smil/playlist.m3u8
 #EXTINF:-1,VOA indonesia
 http://voa-lh.akamaihd.net/i/voa_mpls_tvmc3_3@320295/master.m3u8
 
