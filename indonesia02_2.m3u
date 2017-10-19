@@ -1,6 +1,6 @@
 #EXTM3U
-#EXTINF:-1,Elshinta TV
-https://youtu.be/HSCYAoEKBWo
+#EXTINF:-1,GlobalTV
+https://cdn-livetv.metube.id/hls/globaltv.m3u8
 #EXTINF:-1,MNC Muslim
 https://cdn-livetv.metube.id/hls/mncnews.m3u8
 #EXTINF:-1,Music Channel
@@ -27,8 +27,6 @@ https://cdn-livetv.metube.id/hls/mncnews.m3u8
 https://cdn-livetv.metube.id/hls/mncsports.m3u8
 #EXTINF:-1,iNews TV
 https://cdn-livetv.metube.id/hls/inewstv_480/index.m3u8
-#EXTINF:-1,GlobalTV
-https://cdn-livetv.metube.id/hls/globaltv.m3u8
 #EXTINF:-1,MNC TV
 https://cdn-livetv.metube.id/hls/mnctv.m3u8
 #EXTINF:-1,MNC TV
