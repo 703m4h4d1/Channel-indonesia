@@ -123,7 +123,7 @@ https://livestream-hybrid.akamaized.net/live/smil:tvone.smil/playlist.m3u8
 #EXTINF:-1,Indosiar
 https://livestream-hybrid.akamaized.net/live/smil:indosiar.smil/playlist.m3u8
 #EXTINF:-1,RTV
-rtmp://203.153.97.35:1935/live
+https://live-vidiostream.akamaized.net/live/smil:rtv.smil/playlist.m3u8
 #EXTINF:-1,TVRI DKI
 http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRIdki)/Stream(02)/index.m3u8
 #EXTINF:-1,TVRI National
