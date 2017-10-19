@@ -29,8 +29,6 @@ https://cdn-livetv.metube.id/hls/mncsports.m3u8
 https://cdn-livetv.metube.id/hls/inewstv_480/index.m3u8
 #EXTINF:-1,MNC TV
 https://cdn-livetv.metube.id/hls/mnctv.m3u8
-#EXTINF:-1,MNC TV
-https://cdn-livetv.metube.id/hls/mncfashion.m3u8
 #EXTINF:-1,Foodtravel
 https://cdn-livetv.metube.id/hls/foodtravel.m3u8
 #EXTINF:-1,KompasTV
