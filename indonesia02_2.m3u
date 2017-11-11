@@ -27,8 +27,8 @@ http://103.23.201.170:1935/live/livestream/playlist.m3u8
 http://video2.onlivestreaming.net/dutatv/live.sdp/playlist.m3u8
 #EXTINF:-1,Foodtravel	
 https://cdn-livetv.metube.id/hls/foodtravel.m3u8
-#EXTINF:-1,GlobalTV	
-https://cdn-livetv.metube.id/hls/globaltv.m3u8
+#EXTINF:-1,GTV	
+https://edge.okezone.com/live/globaltv.m3u8
 #EXTINF:-1,IDX	
 https://cdn-livetv.metube.id/hls/idxchannel.m3u8
 #EXTINF:-1,Ihsan TV	
