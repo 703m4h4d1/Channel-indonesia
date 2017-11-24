@@ -30,13 +30,13 @@ https://cdn-livetv.metube.id/hls/foodtravel.m3u8
 #EXTINF:-1,GTV	
 https://edge.okezone.com/live/globaltv.m3u8
 #EXTINF:-1,IDX	
-https://cdn-livetv.metube.id/hls/idxchannel.m3u8
+https://cdn-livetv1.metube.id/hls/idxchannel_480/index.m3u8
 #EXTINF:-1,Ihsan TV	
 rtmp://119.82.224.75:1935/live/ahsantv
 #EXTINF:-1,Indosiar	
 https://livestream-hybrid.akamaized.net/live/smil:indosiar.smil/playlist.m3u8
 #EXTINF:-1,iNews TV	
-https://cdn-livetv.metube.id/hls/inewstv_480/index.m3u8
+https://cdn-livetv1.metube.id/hls/inewstv_240/index.m3u8
 #EXTINF:-1,InsanTV	
 http://wz.insantv.net/group/ngrp:insantv_all/playlist.m3u8
 #EXTINF:-1,INTV	
@@ -55,26 +55,26 @@ http://edge.metrotvnews.com:1935/live-edge/smil:metro.smil/playlist.m3u8
 http://188.166.223.66:8081/live_application/live_stream/playlist.m3u8
 #EXTINF:-1,MNC Fashion	
 https://cdn-livetv.metube.id/hls/mncfashion.m3u8
-#EXTINF:-1,MNC Infotainment	
-https://cdn-livetv.metube.id/hls/mncinfotainment.m3u8
+#EXTINF:-1,MNC Entertainment	
+https://cdn-livetv1.metube.id/hls/mncentertainment_240/index.m3u8
 #EXTINF:-1,MNC Life	
-http://edge.okezone.com/live/life.m3u8
+https://cdn-livetv1.metube.id/hls/life_240/index.m3u8
 #EXTINF:-1,MNC Lifestyle	
-https://cdn-livetv.metube.id/hls/mnclifestyle.m3u8
+https://cdn-livetv1.metube.id/hls/mnclifestyle_240/index.m3u8
 #EXTINF:-1,MNC Muslim	
-https://cdn-livetv.metube.id/hls/mncnews.m3u8
+https://cdn-livetv1.metube.id/hls/mncmuslim_240/index.m3u8
 #EXTINF:-1,MNC News	
-https://cdn-livetv.metube.id/hls/mncnews.m3u8
+https://cdn-livetv1.metube.id/hls/mncnews.m3u8
 #EXTINF:-1,MNC Shop	
-https://cdn-livetv.metube.id/hls/mncshop.m3u8
+https://cdn-livetv1.metube.id/hls/mncshop.m3u8
 #EXTINF:-1,MNC Sports	
-https://cdn-livetv.metube.id/hls/mncsports.m3u8
+https://cdn-livetv1.metube.id/hls/mncsports.m3u8
 #EXTINF:-1,MNC TV	
 https://cdn-livetv1.metube.id/hls/mnctv.m3u8
 #EXTINF:-1,Movie Channel	
 https://cdn-livetv.metube.id/hls/movie.m3u8
 #EXTINF:-1,Music Channel	
-https://cdn-livetv.metube.id/hls/musicchannel.m3u8
+https://cdn-livetv1.metube.id/hls/musicchannel.m3u8
 #EXTINF:-1,Ochannel	
 https://livestream-hybrid.akamaized.net/live/smil:ochannel.smil/playlist.m3u8
 #EXTINF:-1,PKTV Bontang	
