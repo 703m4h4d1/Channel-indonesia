@@ -112,7 +112,7 @@ http://wowza60.indostreamserver.com:1935/tv9/live/playlist.m3u8
 #EXTINF:-1,TVMU	
 rtmp://118.97.183.222:1935/discover/muhammadiyahtv
 #EXTINF:-1,TVONE	
-https://livestream-hybrid.akamaized.net/live/smil:tvone.smil/playlist.m3u8
+https://live-vidiostream.akamaized.net/live/smil:tvone.smil/playlist.m3u8
 #EXTINF:-1,TVRI Bengkulu	
 http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRIbengkulu)/Stream(03)/index.m3u8
 #EXTINF:-1,TVRI Budaya	
