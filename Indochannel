@@ -103,6 +103,8 @@ https://cdn-livetv1.metube.id/hls/mncshop.m3u8
 https://cdn-livetv1.metube.id/hls/mncsports.m3u8
 #EXTINF:-1,MNC TV	
 https://cdn-livetv1.metube.id/hls/mnctv.m3u8
+#EXTINF:-1,Molluca TV Ambon
+http://103.23.201.170:1935/live/livestream/chunklist.m3u8
 #EXTINF:-1,Movie Channel	
 https://cdn-livetv.metube.id/hls/movie.m3u8
 #EXTINF:-1,Music Channel	
