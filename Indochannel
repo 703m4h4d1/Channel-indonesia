@@ -107,6 +107,8 @@ https://cdn-livetv1.metube.id/hls/mnctv.m3u8
 https://cdn-livetv.metube.id/hls/movie.m3u8
 #EXTINF:-1,Music Channel	
 https://cdn-livetv1.metube.id/hls/musicchannel.m3u8
+#EXTINF:-1,Nirwana Tv Bali
+http://122.248.32.234:1935/ch8/myStream/chunklist.m3u8
 #EXTINF:-1,NTV
 http://103.65.236.253:1935/live/liventv1/playlist.m3u8
 #EXTINF:-1,Ochannel	
