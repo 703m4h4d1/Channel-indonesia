@@ -146,7 +146,7 @@ http://122.248.32.234:1935/ch13/myStream/playlist.m3u8
 #EXTINF:-1,SBCTV Jember
 http://wowza58.indostreamserver.com:1935/langoday/live/playlist.m3u8
 #EXTINF:-1,SCTV	
-https://livestream-hybrid.akamaized.net/live/smil:sctv.smil/playlist.m3u8
+http://live3.indostreamingtv.com/live/tv2/index.m3u8
 #EXTINF:-1,SMTV sumedang
 http://122.248.32.234:1935/ch11/myStream/chunklist.m3u8
 #EXTINF:-1,SNTV	
