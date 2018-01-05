@@ -67,6 +67,8 @@ http://122.248.32.234:1935/ch23/myStream/playlist.m3u8
 http://122.248.32.234:1935/ch6/myStream/playlist.m3u8
 #EXTINF:-1,JEK TV	
 http://182.253.193.35:1935/live/myStream1/playlist.m3u8
+#EXTINF:-1,Jember1 TV Jember
+http://wowza60.indostreamserver.com:1935/jember1tv/live/playlist.m3u8
 #EXTINF:-1,JITV	Jogja
 http://mam.jogjaprov.go.id:1935/tv/ngrp:tvonline.stream_all/playlist.m3u8
 #EXTINF:-1,Jogja TV	
