@@ -1,4 +1,6 @@
 #EXTM3U
+#EXTINF:-1,Agropolitan TV Malang
+http://agropolitantv.onlivestreaming.net/agropolitantv/livestream/playlist.m3u8
 #EXTINF:-1,ADI TV Jogja	
 http://aditv.onlivestreaming.net/aditv/livestream/playlist.m3u8
 #EXTINF:-1,Ahsan TV
