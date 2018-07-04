@@ -6,6 +6,8 @@ http://aditv.onlivestreaming.net/aditv/livestream/playlist.m3u8
 http://agropolitantv.onlivestreaming.net/agropolitantv/livestream/playlist.m3u8
 #EXTINF:-1,Ahsan TV
 http://119.82.224.75:1935/live/ahsantv/playlist.m3u8
+#EXTINF:-1,Annabatv
+http://stream.asianastream.com:1935/live/ngrp:annaba_all/playlist.m3u8
 #EXTINF:-1,AN TV
 https://stream-ec.dmcdn.net/26/dm/3/x3ifpox/live-2.m3u8
 #EXTINF:-1,Aniplus	
